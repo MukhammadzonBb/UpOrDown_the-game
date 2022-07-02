@@ -1,3 +1,3 @@
-# UpOrDown_the-game
+# UpOrDown | the game
 ### Simply browser game on javascript.
 Click on any button to play!
