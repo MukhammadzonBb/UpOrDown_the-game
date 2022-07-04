@@ -2,7 +2,7 @@ const player = document.getElementById('player');
 const enemy1 = document.querySelector('.enemy-1');
 const enemy2 = document.querySelector('.enemy-2');
 
-document.addEventListener('keydown', function (e) {
+document.addEventListener('click', function (e) {
     move();
 });
 
